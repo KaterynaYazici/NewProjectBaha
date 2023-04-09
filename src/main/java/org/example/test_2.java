@@ -1,7 +1,9 @@
 package org.example;
 
 public class test_2 {
-    public static void main(String[] args) {
-        System.out.println("NO   ?");
+    public static void println()
+    {
+        System.out.println("I m here!");
     }
-}
+    }
+
